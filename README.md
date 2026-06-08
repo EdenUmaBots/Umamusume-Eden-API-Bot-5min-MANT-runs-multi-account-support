@@ -12,7 +12,15 @@ T500 to T10 in 4 days btw.
 
 # ! Instalation for dummies:
 
-Need python 3.19 or below + tools.
+You will need the latest version of python and C++ Build Tools:
+
+https://www.python.org/downloads/
+
+https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+For C++ Tools, this is what you need, just check that box. <img width="1221" height="625" alt="image" src="https://github.com/user-attachments/assets/28610cb3-650d-43c9-bf09-4505a62272de" />
+
+Now.
 
 Download Eden bot.
 
@@ -44,7 +52,7 @@ Launch first bot until you're in web UI, switch steam accounts, repeat the proce
 
 Daily reset will cause the bots to crash, you must set everything up manually then. 
 
-# That's it! If at any point you struggle here, ask Chatgpt for help, if you want to edit the bot, use Claude. Don't bother me, I am not involved with the game anymore. 
+# That's it! 
 
 # Tips and Tricks:
 
