@@ -56,17 +56,6 @@ Daily reset will cause the bots to crash, you must set everything up manually th
 
 Feel free to join the discord: https://discord.gg/wpbd3hTBDc we are a community for automation enthusiasts, hosting multiple T10 SS clubs.
 
-# Tips and Tricks:
 
-Use burner accounts, they are 5 bucks on g2g(dot)com, use the bot to make two umas for TT, takes 10mins. Now you can use this in your club. 
-
-This and the android bot can be run on a bare metal, gpu enabled virtual machine. databasemart(dot)com provides cheap options, you will need a GPU Dedicated server, some of them can run 10+ accounts. 
-
-Cap your fans to 30-50M if you care don't want to get banned but at this point who gaf.
-
-2-3 accounts running full time should be enough for T10, 4+ is needed for rank 1. 
-
-
-<img width="1415" height="928" alt="image" src="https://github.com/user-attachments/assets/0bb28922-f882-4b05-8240-6973a2d6b011" />
 
 
